@@ -30,5 +30,5 @@ The [miscellaneous](miscellaneous/) folder contains code to batch calculating Sp
 The detailed description about the codes used in this study, from `step_01_inter_individual_fc_variability` to `step_07_cognitive_effects`, can be found [here](https://github.com/CuiLabCIBR/Connectional_Variability_Gradient/wiki).
 
 ## `note`
-The current repository does include code and data used in the supplementary analyses, these will be added in the near future. The FC matrices of each individual from the HCP-D and HCP-YA datasets have not been uploaded due to the limited the size of large single file.
+The current repository does not include code and data used in the supplementary analyses, these will be added in the near future. The FC and SC matrices of each individual from the HCP-D and HCP-YA datasets have not been uploaded due to the limited the size of large single file.
 
