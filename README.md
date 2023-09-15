@@ -12,10 +12,6 @@ Data and codes for our paper **"A Connectional Gradient of Individual Variabilit
 ## `functions`
 The [functions](functions/) folder contains code and files commonly used in `code`.
 
-## `miscellaneous`
-
-The [miscellaneous](miscellaneous/) folder contains code to batch calculating Spearman's rank correlation between FC variability and other connectomes, along with confidence interval estimation using a bootstrap approach.
-
 ## `code`
 
 - The [step_01_inter_individual_fc_variability](step_01_inter_individual_fc_variability/) folder contains codes to construct the individual functional connectivity and estimate the inter-individual variability of functional connectivity. 
